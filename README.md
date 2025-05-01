@@ -54,7 +54,8 @@ Este projeto foi desenvolvido como parte de um **projeto de extensão universit�
 
 ## 📷 Capturas de Tela (opcional)
 
-> ⚠️ (Adicione imagens do sistema aqui caso deseje ilustrar a interface)
+![image](https://github.com/user-attachments/assets/a62f039e-043c-4022-aee0-b928a3af40d8)
+
 
 ## 👥 Equipe
 
